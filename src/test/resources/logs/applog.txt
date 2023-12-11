@@ -1,0 +1,151 @@
+INFO    2023-09-29 11:38:18,999 [main] devpinoyLogger  - Config file is loaded successfully!!!
+INFO    2023-09-29 11:38:19,001 [main] devpinoyLogger  - OR file is loaded successfully!!!
+INFO    2023-09-29 11:38:20,980 [main] devpinoyLogger  - Chrome launched successfully!!!
+INFO    2023-09-29 11:38:28,082 [main] devpinoyLogger  - Test site launched successfully!!!https://www.travelers.com/
+INFO    2023-09-29 11:38:28,206 [main] devpinoyLogger  - The window maximize successfully!!!
+INFO    2023-09-29 11:38:28,335 [main] devpinoyLogger  - Console ---> Executing the test SMOKE_GETAQUOTETEST as the Run mode is YES
+INFO    2023-09-29 11:38:28,336 [main] devpinoyLogger  - Console ---> Clearing the : quotezip_getaquote_XPATH
+INFO    2023-09-29 11:38:28,428 [main] devpinoyLogger  - Console ---> Cleared the : quotezip_getaquote_XPATH
+INFO    2023-09-29 11:38:28,428 [main] devpinoyLogger  - Console ---> Typing the details in the : quotezip_getaquote_XPATH field.
+INFO    2023-09-29 11:38:28,501 [main] devpinoyLogger  - Console ---> Typed the details in the : quotezip_getaquote_XPATH field and entered value as "36116"
+INFO    2023-09-29 11:38:28,501 [main] devpinoyLogger  - Console ---> Clicking on the : startquote_getaquote_XPATH
+INFO    2023-09-29 11:38:28,615 [main] devpinoyLogger  - Console ---> Clicked on the : startquote_getaquote_XPATH
+INFO    2023-09-29 11:38:39,765 [main] devpinoyLogger  - Console ---> Chrome launched successfully!!!
+INFO    2023-09-29 11:38:47,845 [main] devpinoyLogger  - Console ---> Test site launched successfully!!!https://www.travelers.com/
+INFO    2023-09-29 11:38:47,968 [main] devpinoyLogger  - Console ---> The window maximize successfully!!!
+INFO    2023-09-29 11:38:47,972 [main] devpinoyLogger  - Console ---> Clearing the : quotezip_getaquote_XPATH
+INFO    2023-09-29 11:38:48,064 [main] devpinoyLogger  - Console ---> Cleared the : quotezip_getaquote_XPATH
+INFO    2023-09-29 11:38:48,065 [main] devpinoyLogger  - Console ---> Typing the details in the : quotezip_getaquote_XPATH field.
+INFO    2023-09-29 11:38:48,154 [main] devpinoyLogger  - Console ---> Typed the details in the : quotezip_getaquote_XPATH field and entered value as "36116"
+INFO    2023-09-29 11:38:48,155 [main] devpinoyLogger  - Console ---> Clicking on the : startquote_getaquote_XPATH
+INFO    2023-09-29 11:38:48,272 [main] devpinoyLogger  - Console ---> Clicked on the : startquote_getaquote_XPATH
+INFO    2023-09-29 11:38:59,468 [main] devpinoyLogger  - Console ---> Chrome launched successfully!!!
+INFO    2023-09-29 11:39:07,797 [main] devpinoyLogger  - Console ---> Test site launched successfully!!!https://www.travelers.com/
+INFO    2023-09-29 11:39:07,917 [main] devpinoyLogger  - Console ---> The window maximize successfully!!!
+INFO    2023-09-29 11:39:07,921 [main] devpinoyLogger  - Console ---> Clearing the : quotezip_getaquote_XPATH
+INFO    2023-09-29 11:39:08,035 [main] devpinoyLogger  - Console ---> Cleared the : quotezip_getaquote_XPATH
+INFO    2023-09-29 11:39:08,035 [main] devpinoyLogger  - Console ---> Typing the details in the : quotezip_getaquote_XPATH field.
+INFO    2023-09-29 11:39:08,165 [main] devpinoyLogger  - Console ---> Typed the details in the : quotezip_getaquote_XPATH field and entered value as "36116"
+INFO    2023-09-29 11:39:08,165 [main] devpinoyLogger  - Console ---> Clicking on the : startquote_getaquote_XPATH
+INFO    2023-09-29 11:39:08,421 [main] devpinoyLogger  - Console ---> Clicked on the : startquote_getaquote_XPATH
+INFO    2023-09-29 11:39:19,644 [main] devpinoyLogger  - Console ---> Chrome launched successfully!!!
+INFO    2023-09-29 11:39:28,579 [main] devpinoyLogger  - Console ---> Test site launched successfully!!!https://www.travelers.com/
+INFO    2023-09-29 11:39:28,705 [main] devpinoyLogger  - Console ---> The window maximize successfully!!!
+INFO    2023-09-29 11:39:28,711 [main] devpinoyLogger  - Console ---> Clearing the : quotezip_getaquote_XPATH
+INFO    2023-09-29 11:39:28,822 [main] devpinoyLogger  - Console ---> Cleared the : quotezip_getaquote_XPATH
+INFO    2023-09-29 11:39:28,822 [main] devpinoyLogger  - Console ---> Typing the details in the : quotezip_getaquote_XPATH field.
+INFO    2023-09-29 11:39:28,904 [main] devpinoyLogger  - Console ---> Typed the details in the : quotezip_getaquote_XPATH field and entered value as "36116"
+INFO    2023-09-29 11:39:28,904 [main] devpinoyLogger  - Console ---> Clicking on the : startquote_getaquote_XPATH
+INFO    2023-09-29 11:39:29,067 [main] devpinoyLogger  - Console ---> Clicked on the : startquote_getaquote_XPATH
+INFO    2023-09-29 11:39:39,147 [main] devpinoyLogger  - Console ---> Waiting for the : no_currentuser_getaquote_XPATH
+INFO    2023-09-29 11:39:39,148 [main] devpinoyLogger  - Console ---> Clicking on the : no_currentuser_getaquote_XPATH
+INFO    2023-09-29 11:39:39,198 [main] devpinoyLogger  - Console ---> Clicked on the : no_currentuser_getaquote_XPATH
+INFO    2023-09-29 11:39:39,198 [main] devpinoyLogger  - Console ---> Clicking on the : continue_currentuser_getaquote_XPATH
+INFO    2023-09-29 11:39:39,342 [main] devpinoyLogger  - Console ---> Clicked on the : continue_currentuser_getaquote_XPATH
+INFO    2023-09-29 11:39:39,342 [main] devpinoyLogger  - Console ---> Clearing the : firstname_getaquote_XPATH
+INFO    2023-09-29 11:39:39,399 [main] devpinoyLogger  - Console ---> Cleared the : firstname_getaquote_XPATH
+INFO    2023-09-29 11:39:39,399 [main] devpinoyLogger  - Console ---> Typing the details in the : firstname_getaquote_XPATH field.
+INFO    2023-09-29 11:39:39,518 [main] devpinoyLogger  - Console ---> Typed the details in the : firstname_getaquote_XPATH field and entered value as "zach"
+INFO    2023-09-29 11:39:39,518 [main] devpinoyLogger  - Console ---> Clearing the : lastname_getaquote_XPATH
+INFO    2023-09-29 11:39:39,564 [main] devpinoyLogger  - Console ---> Cleared the : lastname_getaquote_XPATH
+INFO    2023-09-29 11:39:39,565 [main] devpinoyLogger  - Console ---> Typing the details in the : lastname_getaquote_XPATH field.
+INFO    2023-09-29 11:39:39,709 [main] devpinoyLogger  - Console ---> Typed the details in the : lastname_getaquote_XPATH field and entered value as "luna"
+INFO    2023-09-29 11:39:39,709 [main] devpinoyLogger  - Console ---> Selecting option from the dropdown : suffix_getaquote_XPATH
+INFO    2023-09-29 11:39:39,890 [main] devpinoyLogger  - Console ---> Selected option from the dropdown : suffix_getaquote_XPATH value as "Sr."
+INFO    2023-09-29 11:39:39,890 [main] devpinoyLogger  - Console ---> Clearing the : email_getaquote_XPATH
+INFO    2023-09-29 11:39:39,938 [main] devpinoyLogger  - Console ---> Cleared the : email_getaquote_XPATH
+INFO    2023-09-29 11:39:39,939 [main] devpinoyLogger  - Console ---> Typing the details in the : email_getaquote_XPATH field.
+INFO    2023-09-29 11:39:40,109 [main] devpinoyLogger  - Console ---> Typed the details in the : email_getaquote_XPATH field and entered value as "zach.luna@gmail.com"
+INFO    2023-09-29 11:39:40,109 [main] devpinoyLogger  - Console ---> Clearing the : addr_getaquote_XPATH
+INFO    2023-09-29 11:39:40,165 [main] devpinoyLogger  - Console ---> Cleared the : addr_getaquote_XPATH
+INFO    2023-09-29 11:39:40,166 [main] devpinoyLogger  - Console ---> Typing the details in the : addr_getaquote_XPATH field.
+INFO    2023-09-29 11:39:40,321 [main] devpinoyLogger  - Console ---> Typed the details in the : addr_getaquote_XPATH field and entered value as "5331 Rexford Court"
+INFO    2023-09-29 11:39:40,321 [main] devpinoyLogger  - Console ---> Clearing the : city_getaquote_XPATH
+INFO    2023-09-29 11:39:40,369 [main] devpinoyLogger  - Console ---> Cleared the : city_getaquote_XPATH
+INFO    2023-09-29 11:39:40,370 [main] devpinoyLogger  - Console ---> Typing the details in the : city_getaquote_XPATH field.
+INFO    2023-09-29 11:39:40,735 [main] devpinoyLogger  - Console ---> Typed the details in the : city_getaquote_XPATH field and entered value as "Montgomery"
+INFO    2023-09-29 11:39:40,735 [main] devpinoyLogger  - Console ---> Selecting option from the dropdown : state_getaquote_XPATH
+INFO    2023-09-29 11:39:40,803 [main] devpinoyLogger  - Console ---> Selected option from the dropdown : state_getaquote_XPATH value as "Alabama"
+INFO    2023-09-29 11:39:40,803 [main] devpinoyLogger  - Console ---> Clearing the : zip_getaquote_XPATH
+INFO    2023-09-29 11:39:40,887 [main] devpinoyLogger  - Console ---> Cleared the : zip_getaquote_XPATH
+INFO    2023-09-29 11:39:40,887 [main] devpinoyLogger  - Console ---> Typing the details in the : zip_getaquote_XPATH field.
+INFO    2023-09-29 11:39:41,003 [main] devpinoyLogger  - Console ---> Typed the details in the : zip_getaquote_XPATH field and entered value as "36116"
+INFO    2023-09-29 11:39:41,038 [main] devpinoyLogger  - Console ---> Clicked on the terms and condition checkbox.
+INFO    2023-09-29 11:39:43,040 [main] devpinoyLogger  - Console ---> Clicking on the : continueMyQuotes_getaquote_XPATH
+INFO    2023-09-29 11:39:43,144 [main] devpinoyLogger  - Console ---> Clicked on the : continueMyQuotes_getaquote_XPATH
+INFO    2023-09-29 11:39:45,147 [main] devpinoyLogger  - Console ---> Selecting option from the dropdown : gender_getaquote_XPATH
+INFO    2023-09-29 11:39:45,238 [main] devpinoyLogger  - Console ---> Selected option from the dropdown : gender_getaquote_XPATH value as "Male"
+INFO    2023-09-29 11:39:45,238 [main] devpinoyLogger  - Console ---> Clearing the : dob_getaquote_XPATH
+INFO    2023-09-29 11:39:45,272 [main] devpinoyLogger  - Console ---> Cleared the : dob_getaquote_XPATH
+INFO    2023-09-29 11:39:45,272 [main] devpinoyLogger  - Console ---> Typing the details in the : dob_getaquote_XPATH field.
+INFO    2023-09-29 11:39:45,381 [main] devpinoyLogger  - Console ---> Typed the details in the : dob_getaquote_XPATH field and entered value as "1.0111992E7"
+INFO    2023-09-29 11:39:45,381 [main] devpinoyLogger  - Console ---> Selecting option from the dropdown : maritalStatus_getaquote_XPATH
+INFO    2023-09-29 11:39:45,460 [main] devpinoyLogger  - Console ---> Selected option from the dropdown : maritalStatus_getaquote_XPATH value as "Married"
+INFO    2023-09-29 11:39:45,460 [main] devpinoyLogger  - Console ---> Clearing the : tel_getaquote_XPATH
+INFO    2023-09-29 11:39:45,497 [main] devpinoyLogger  - Console ---> Cleared the : tel_getaquote_XPATH
+INFO    2023-09-29 11:39:45,497 [main] devpinoyLogger  - Console ---> Typing the details in the : tel_getaquote_XPATH field.
+INFO    2023-09-29 11:39:45,601 [main] devpinoyLogger  - Console ---> Typed the details in the : tel_getaquote_XPATH field and entered value as "9.638520741E9"
+INFO    2023-09-29 11:39:47,616 [main] devpinoyLogger  - Console ---> Clicking on the : continue2_getaquote_XPATH
+INFO    2023-09-29 11:39:47,762 [main] devpinoyLogger  - Console ---> Clicked on the : continue2_getaquote_XPATH
+INFO    2023-09-29 11:39:47,763 [main] devpinoyLogger  - Console ---> Selecting option from the dropdown : license_getaquote_XPATH
+INFO    2023-09-29 11:39:47,887 [main] devpinoyLogger  - Console ---> Selected option from the dropdown : license_getaquote_XPATH value as "Valid U.S. license"
+INFO    2023-09-29 11:39:47,887 [main] devpinoyLogger  - Console ---> Clearing the : ageLicensed_getaquote_XPATH
+INFO    2023-09-29 11:39:47,925 [main] devpinoyLogger  - Console ---> Cleared the : ageLicensed_getaquote_XPATH
+INFO    2023-09-29 11:39:47,925 [main] devpinoyLogger  - Console ---> Typing the details in the : ageLicensed_getaquote_XPATH field.
+INFO    2023-09-29 11:39:48,005 [main] devpinoyLogger  - Console ---> Typed the details in the : ageLicensed_getaquote_XPATH field and entered value as "20.0"
+INFO    2023-09-29 11:39:48,005 [main] devpinoyLogger  - Console ---> Selecting option from the dropdown : licenseState_getaquote_XPATH
+INFO    2023-09-29 11:39:48,050 [main] devpinoyLogger  - Console ---> Selected option from the dropdown : licenseState_getaquote_XPATH value as "Alabama"
+INFO    2023-09-29 11:39:48,050 [main] devpinoyLogger  - Console ---> Clicking on the : no_requireSR22_getaquote_XPATH
+INFO    2023-09-29 11:39:48,137 [main] devpinoyLogger  - Console ---> Clicked on the : no_requireSR22_getaquote_XPATH
+INFO    2023-09-29 11:39:48,137 [main] devpinoyLogger  - Console ---> Clicking on the : no_everSuspended_getaquote_XPATH
+INFO    2023-09-29 11:39:48,197 [main] devpinoyLogger  - Console ---> Clicked on the : no_everSuspended_getaquote_XPATH
+INFO    2023-09-29 11:39:48,197 [main] devpinoyLogger  - Console ---> Clicking on the : yes_paperlessBilling_getaquote_XPATH
+INFO    2023-09-29 11:39:48,265 [main] devpinoyLogger  - Console ---> Clicked on the : yes_paperlessBilling_getaquote_XPATH
+INFO    2023-09-29 11:39:48,265 [main] devpinoyLogger  - Console ---> Clicking on the : no_defensiveDriverCourse_getaquote_XPATH
+INFO    2023-09-29 11:39:48,328 [main] devpinoyLogger  - Console ---> Clicked on the : no_defensiveDriverCourse_getaquote_XPATH
+INFO    2023-09-29 11:39:48,328 [main] devpinoyLogger  - Console ---> Selecting option from the dropdown : homeOwnership_getaquote_XPATH
+INFO    2023-09-29 11:39:48,411 [main] devpinoyLogger  - Console ---> Selected option from the dropdown : homeOwnership_getaquote_XPATH value as "Own Home"
+INFO    2023-09-29 11:39:48,411 [main] devpinoyLogger  - Console ---> Clicking on the : no_allIncidentsQuestion_getaquote_XPATH
+INFO    2023-09-29 11:39:48,493 [main] devpinoyLogger  - Console ---> Clicked on the : no_allIncidentsQuestion_getaquote_XPATH
+INFO    2023-09-29 11:39:50,564 [main] devpinoyLogger  - Console ---> Clicked on the Save Driver Button.
+INFO    2023-09-29 11:39:52,572 [main] devpinoyLogger  - Console ---> Clicking on the : continue3_getaquote_XPATH
+INFO    2023-09-29 11:39:52,688 [main] devpinoyLogger  - Console ---> Clicked on the : continue3_getaquote_XPATH
+INFO    2023-09-29 11:39:54,699 [main] devpinoyLogger  - Console ---> Selecting option from the dropdown : vehicleYear_getaquote_XPATH
+INFO    2023-09-29 11:39:54,788 [main] devpinoyLogger  - Console ---> Selected option from the dropdown : vehicleYear_getaquote_XPATH value as "2020"
+INFO    2023-09-29 11:39:54,788 [main] devpinoyLogger  - Console ---> Selecting option from the dropdown : vehicleMake_getaquote_XPATH
+INFO    2023-09-29 11:39:55,629 [main] devpinoyLogger  - Console ---> Selected option from the dropdown : vehicleMake_getaquote_XPATH value as "AUDI"
+INFO    2023-09-29 11:39:55,629 [main] devpinoyLogger  - Console ---> Selecting option from the dropdown : vehicleModel_getaquote_XPATH
+INFO    2023-09-29 11:39:56,148 [main] devpinoyLogger  - Console ---> Selected option from the dropdown : vehicleModel_getaquote_XPATH value as "A7"
+INFO    2023-09-29 11:39:56,148 [main] devpinoyLogger  - Console ---> Selecting option from the dropdown : vehicleBodyStyle_getaquote_XPATH
+INFO    2023-09-29 11:39:56,623 [main] devpinoyLogger  - Console ---> Selected option from the dropdown : vehicleBodyStyle_getaquote_XPATH value as "A7 PREMIUM PLUS AWD"
+INFO    2023-09-29 11:39:56,623 [main] devpinoyLogger  - Console ---> Selecting option from the dropdown : vehicleUse_getaquote_XPATH
+INFO    2023-09-29 11:39:56,707 [main] devpinoyLogger  - Console ---> Selected option from the dropdown : vehicleUse_getaquote_XPATH value as "Business"
+INFO    2023-09-29 11:39:56,707 [main] devpinoyLogger  - Console ---> Selecting option from the dropdown : vehicleUse_getaquote_XPATH
+INFO    2023-09-29 11:39:56,747 [main] devpinoyLogger  - Console ---> Selected option from the dropdown : vehicleUse_getaquote_XPATH value as "Business"
+INFO    2023-09-29 11:39:56,748 [main] devpinoyLogger  - Console ---> Clearing the : vehicleAnnualMiles_getaquote_XPATH
+INFO    2023-09-29 11:39:56,790 [main] devpinoyLogger  - Console ---> Cleared the : vehicleAnnualMiles_getaquote_XPATH
+INFO    2023-09-29 11:39:56,790 [main] devpinoyLogger  - Console ---> Typing the details in the : vehicleAnnualMiles_getaquote_XPATH field.
+INFO    2023-09-29 11:39:56,925 [main] devpinoyLogger  - Console ---> Typed the details in the : vehicleAnnualMiles_getaquote_XPATH field and entered value as "1000.0"
+INFO    2023-09-29 11:39:56,925 [main] devpinoyLogger  - Console ---> Selecting option from the dropdown : vehicleOwnership_getaquote_XPATH
+INFO    2023-09-29 11:39:57,017 [main] devpinoyLogger  - Console ---> Selected option from the dropdown : vehicleOwnership_getaquote_XPATH value as "Owned (and do not make payments)"
+INFO    2023-09-29 11:39:57,017 [main] devpinoyLogger  - Console ---> Selecting option from the dropdown : vehiclePurchaseDate_getaquote_XPATH
+INFO    2023-09-29 11:39:57,099 [main] devpinoyLogger  - Console ---> Selected option from the dropdown : vehiclePurchaseDate_getaquote_XPATH value as "2 years to less than 3 years"
+INFO    2023-09-29 11:39:57,123 [main] devpinoyLogger  - Console ---> Scroll Down the screen By 300 px.
+INFO    2023-09-29 11:39:59,215 [main] devpinoyLogger  - Console ---> Clicked on the save vehicle button.
+INFO    2023-09-29 11:40:01,280 [main] devpinoyLogger  - Console ---> Clicked on the continue to auto history.
+INFO    2023-09-29 11:40:03,292 [main] devpinoyLogger  - Console ---> Selecting option from the dropdown : autoCarrier_getaquote_XPATH
+INFO    2023-09-29 11:40:03,366 [main] devpinoyLogger  - Console ---> Selected option from the dropdown : autoCarrier_getaquote_XPATH value as "Allstate"
+INFO    2023-09-29 11:40:03,366 [main] devpinoyLogger  - Console ---> Selecting option from the dropdown : autoYearsWithCarrier_getaquote_XPATH
+INFO    2023-09-29 11:40:03,436 [main] devpinoyLogger  - Console ---> Selected option from the dropdown : autoYearsWithCarrier_getaquote_XPATH value as "1-2 years"
+INFO    2023-09-29 11:40:03,436 [main] devpinoyLogger  - Console ---> Selecting option from the dropdown : autoContinuousYearsInsured_getaquote_XPATH
+INFO    2023-09-29 11:40:03,502 [main] devpinoyLogger  - Console ---> Selected option from the dropdown : autoContinuousYearsInsured_getaquote_XPATH value as "1-2 years"
+INFO    2023-09-29 11:40:03,502 [main] devpinoyLogger  - Console ---> Selecting option from the dropdown : bodilyInjuryLimit_getaquote_XPATH
+INFO    2023-09-29 11:40:03,576 [main] devpinoyLogger  - Console ---> Selected option from the dropdown : bodilyInjuryLimit_getaquote_XPATH value as "$50,000/$100,0000"
+INFO    2023-09-29 11:40:05,648 [main] devpinoyLogger  - Console ---> Clicked on the continue button.
+INFO    2023-09-29 11:40:35,934 [main] devpinoyLogger  - Console ---> Waiting for the : estimatedQuote_getaquote_XPATH
+INFO    2023-09-29 11:40:35,935 [main] devpinoyLogger  - Console ---> Verifing the : estimatedQuote_getaquote_XPATH
+INFO    2023-09-29 11:40:35,972 [main] devpinoyLogger  - Console ---> Verified the : estimatedQuote_getaquote_XPATH value as "Your estimated Travelers quote"
+INFO    2023-09-29 11:40:36,054 [main] devpinoyLogger  - ********** Below is The Estimated Travelers Quote **********
+INFO    2023-09-29 11:40:38,068 [main] devpinoyLogger  - Console ---> Verifing the : instaMatchQuotes_getaquote_XPATH
+INFO    2023-09-29 11:40:38,114 [main] devpinoyLogger  - Console ---> Verified the : instaMatchQuotes_getaquote_XPATH value as "Quotes provided by InsuraMatch"
+INFO    2023-09-29 11:40:53,744 [main] devpinoyLogger  - Console ---> Test execution completed!!!
